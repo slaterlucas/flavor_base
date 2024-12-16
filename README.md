@@ -15,3 +15,19 @@ This project leverages a **Knowledge Graph** and **Retrieval-Augmented Generatio
   - [`llama_index`](https://github.com/jerryjliu/llama_index) for graph and LLM integration.
   - [`dotenv`](https://github.com/theskumar/python-dotenv) for secure environment variable management.
   - Other dependencies: `neo4j`, `openai`.
+
+## **Setup Instructions**
+
+1. Clone the Repository
+
+2. Install Dependencies
+
+3. Set Up Secrets in .env
+
+4. Run notebook locally or in Google Colab
+
+## **Acknowledgments**
+
+Inspired by https://www.youtube.com/watch?v=LDh5MdR-CPQ
+
+
